@@ -49,19 +49,6 @@
 <!-- About the Project -->
 ## 📝 About the Project
 
-<!-- TechStack -->
-### 💻 Tech Stack
-
-This project utilizes the following technologies and tools:
-
-- Programming Languages: [list of programming languages]
-- Frameworks: [list of frameworks]
-- Libraries: [list of libraries]
-- Databases: [list of databases]
-- Deployment: [list of deployment tools]
-- Testing: [list of testing frameworks]
-- Version Control: Git, Github
-
 <!-- Features -->
 ### 🌟 Features
 
@@ -95,8 +82,6 @@ This project requires the following configuration:
 
 <!-- Prerequisites -->
 ### 🔧 Prerequisites
-
-Prerequisites for this project:
 
 - Prerequisite 1
 - Prerequisite 2

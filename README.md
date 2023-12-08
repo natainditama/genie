@@ -1,40 +1,40 @@
 <div align="center">
 
-  <h1>Template</h1>  
+  <h1>Genie</h1>  
   <p>
     Flexible github repository template for projects! 
   </p>
 
 <!-- Badges -->
 <p>
-  <a href="https://github.com/NataInditamaDev/template/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/NataInditamaDev/template" alt="contributors" />
+  <a href="https://github.com/natainditama/genie/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/natainditama/genie" alt="contributors" />
   </a>
-  <a href="">
-    <img src="https://img.shields.io/github/last-commit/NataInditamaDev/template" alt="last update" />
+  <a href="https://github.com/natainditama/genie">
+    <img src="https://img.shields.io/github/last-commit/natainditama/genie" alt="last update" />
   </a>
-  <a href="https://github.com/NataInditamaDev/template/network/members">
-    <img src="https://img.shields.io/github/forks/NataInditamaDev/template" alt="forks" />
+  <a href="https://github.com/natainditama/genie/network/members">
+    <img src="https://img.shields.io/github/forks/natainditama/genie" alt="forks" />
   </a>
-  <a href="https://github.com/NataInditamaDev/template/stargazers">
-    <img src="https://img.shields.io/github/stars/NataInditamaDev/template" alt="stars" />
+  <a href="https://github.com/natainditama/genie/stargazers">
+    <img src="https://img.shields.io/github/stars/natainditama/genie" alt="stars" />
   </a>
-  <a href="https://github.com/NataInditamaDev/template/issues/">
-    <img src="https://img.shields.io/github/issues/NataInditamaDev/template" alt="open issues" />
+  <a href="https://github.com/natainditama/genie/issues/">
+    <img src="https://img.shields.io/github/issues/natainditama/genie" alt="open issues" />
   </a>
-  <a href="https://github.com/NataInditamaDev/template/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/NataInditamaDev/template.svg" alt="license" />
+  <a href="https://github.com/natainditama/genie/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/natainditama/genie.svg" alt="license" />
   </a>
 </p>
    
 <h4>
-    <a href="https://github.com/NataInditamaDev/template/">View Demo</a>
+    <a href="https://github.com/natainditama/genie/">View Demo</a>
   <span> · </span>
-    <a href="https://github.com/NataInditamaDev/template">Documentation</a>
+    <a href="https://github.com/natainditama/genie">Documentation</a>
   <span> · </span>
-    <a href="https://github.com/NataInditamaDev/template/issues/">Report Bug</a>
+    <a href="https://github.com/natainditama/genie/issues/">Report Bug</a>
   <span> · </span>
-    <a href="https://github.com/NataInditamaDev/template/issues/">Request Feature</a>
+    <a href="https://github.com/natainditama/genie/issues/">Request Feature</a>
   </h4>
 </div>
 
@@ -71,8 +71,6 @@ This project includes the following features:
 <!-- Env Variables -->
 ### 🔑 Environment Variables
 
-This project requires the following configuration:
-
 - `API_KEY_1` : [Description of environment variable]
 - `API_KEY_2` : [Description of environment variable]
 - `API_KEY_3` : [Description of environment variable]
@@ -105,25 +103,25 @@ Go to the project directory
 Install dependencies
 
 ```bash
-  npm install
+  yarn
 ```
 
 Start the server
 
 ```bash
-  npm run start
+  yarn start
 ```
 
 <!-- Contributing -->
 ## 👋 Contributing
 
-<a href="https://github.com/NataInditamaDev/template/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=NataInditamaDev/template" />
+<a href="https://github.com/natainditama/genie/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=natainditama/genie" />
 </a><br/>
 
 Contributions are always welcome!
 
-See [contributing.md](https://github.com/NataInditamaDev/template/blob/main/.github/CONTRIBUTING.md) for ways to get started.
+See [contributing.md](https://github.com/natainditama/genie/blob/main/.github/CONTRIBUTING.md) for ways to get started.
 
 <!-- Acknowledgments -->
 ## 🙏 Acknowledgements
@@ -137,12 +135,12 @@ Special thanks to contributors for their valuable contributions to this project:
 <!-- Code of Conduct -->
 ### 📜 Code of Conduct
 
-Please read the [Code of Conduct](https://github.com/NataInditamaDev/template/blob/main/.github/CODE_OF_CONDUCT.md)
+Please read the [Code of Conduct](https://github.com/natainditama/genie/blob/main/.github/CODE_OF_CONDUCT.md)
 
 <!-- License -->
 ## ⚠️ License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/NataInditamaDev/template/blob/main/LICENSE) file for details
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/natainditama/genie/blob/main/LICENSE) file for details
 
 <!-- Contact -->
 ## 🤝 Contact

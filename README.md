@@ -91,7 +91,7 @@ This project includes the following features:
 Clone the project
 
 ```bash
-  git clone https://github.com/NataInditamaDev/template.git
+  git clone https://github.com/natainditama/genie.git
 ```
 
 Go to the project directory

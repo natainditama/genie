@@ -68,13 +68,6 @@ This project includes the following features:
 | Background Color | ![#00ADB5](https://via.placeholder.com/10/00ADB5?text=+) #00ADB5 |
 | Text Color | ![#EEEEEE](https://via.placeholder.com/10/EEEEEE?text=+) #EEEEEE |
 
-<!-- Env Variables -->
-### 🔑 Environment Variables
-
-- `API_KEY_1` : [Description of environment variable]
-- `API_KEY_2` : [Description of environment variable]
-- `API_KEY_3` : [Description of environment variable]
-
 <!-- Getting Started -->
 ## 🚀 Getting Started
 

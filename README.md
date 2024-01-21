@@ -13,12 +13,6 @@
   <a href="https://github.com/natainditama/genie">
     <img src="https://img.shields.io/github/last-commit/natainditama/genie" alt="last update" />
   </a>
-  <a href="https://github.com/natainditama/genie/network/members">
-    <img src="https://img.shields.io/github/forks/natainditama/genie" alt="forks" />
-  </a>
-  <a href="https://github.com/natainditama/genie/stargazers">
-    <img src="https://img.shields.io/github/stars/natainditama/genie" alt="stars" />
-  </a>
   <a href="https://github.com/natainditama/genie/issues/">
     <img src="https://img.shields.io/github/issues/natainditama/genie" alt="open issues" />
   </a>
@@ -54,9 +48,9 @@
 
 This project includes the following features:
 
-- Feature 1 : [Description of feature]
-- Feature 2 : [Description of feature]
-- Feature 3 : [Description of feature]
+- Feature 1 
+- Feature 2 
+- Feature 3 
 
 <!-- Color Reference -->
 ### 🎨 Color Reference
@@ -116,25 +110,6 @@ Contributions are always welcome!
 
 See [contributing.md](https://github.com/natainditama/genie/blob/main/.github/CONTRIBUTING.md) for ways to get started.
 
-<!-- Acknowledgments -->
-## 🙏 Acknowledgements
-
-Special thanks to contributors for their valuable contributions to this project:
-
-- [Project 1](https://project/)
-- [Project 2](https://project/)
-- [Project 3](https://project/)
-
-<!-- Code of Conduct -->
-### 📜 Code of Conduct
-
-Please read the [Code of Conduct](https://github.com/natainditama/genie/blob/main/.github/CODE_OF_CONDUCT.md)
-
-<!-- License -->
-## ⚠️ License
-
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/natainditama/genie/blob/main/LICENSE) file for details
-
 <!-- Contact -->
 ## 🤝 Contact
 
@@ -144,4 +119,16 @@ Contact me for inquiries, suggestions, or contributions via the following channe
 - [LinkedIn](https://www.linkedin.com/in/natainditama)
 - [GitHub](https://github.com/natainditama)
 
-Thank you for your support, interest, feedback, and contributions!
+<!-- License -->
+## ⚠️ License
+
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/natainditama/genie/blob/main/LICENSE) file for details
+
+<!-- Acknowledgments -->
+## 🙏 Acknowledgements
+
+Special thanks to contributors for their valuable contributions to this project:
+
+- [Project 1](https://project/)
+- [Project 2](https://project/)
+- [Project 3](https://project/)

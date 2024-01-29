@@ -1,0 +1,52 @@
+{
+  "name": "genie",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Flexible github repository template",
+  "homepage": "https://github.com/natainditama/genie",
+  "bugs": {
+    "url": "https://github.com/natainditama/genie/issues",
+    "email": "natainditama.dev@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/natainditama/genie"
+  },
+  "author": {
+    "name": "natainditama",
+    "email": "natainditama.dev@gmail.com",
+    "url": "https://github.com/natainditama"
+  },
+  "license": "MIT",
+  "keywords": [
+    "github",
+    "starter",
+    "template"
+  ],
+  "scripts": {
+    "prepare": "husky install"
+  },
+  "lint-staged": {
+    "./src/**/*.{ts,js,jsx,tsx}": [
+      "prettier --ignore-path .gitignore --write"
+    ]
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^18.6.0",
+    "@commitlint/config-conventional": "^18.6.0",
+    "husky": "^9.0.6",
+    "lint-staged": "^15.2.0",
+    "prettier": "^3.2.4",
+    "prettier-plugin-sort-json": "^3.1.0"
+  },
+  "prettier": {
+    "plugins": [
+      "prettier-plugin-sort-json"
+    ],
+    "printWidth": 120,
+    "trailingComma": "es5",
+    "singleQuote": true,
+    "tabWidth": 2,
+    "endOfLine": "auto"
+  }
+}

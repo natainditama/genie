@@ -4,7 +4,7 @@
   "labels": ["type: dependencies"],
   "major": {
     "enabled": false
-  }, 
+  },
   "prCreation": "not-pending",
   "semanticCommits": "enabled",
   "stabilityDays": 3

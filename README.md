@@ -32,40 +32,45 @@
   </h4>
 </div>
 
-<br />  
+<br />
 
 <div align="center"> 
   <img src="https://placehold.co/1280x720?text=Your+Screenshot+here" alt="screenshot" />
 </div>
 
-<br />  
+<br />
 
 <!-- About the Project -->
+
 ## 📝 About the Project
 
 <!-- Features -->
+
 ### 🌟 Features
 
 This project includes the following features:
 
-- Feature 1 
-- Feature 2 
-- Feature 3 
+- Feature 1
+- Feature 2
+- Feature 3
 
 <!-- Color Reference -->
+
 ### 🎨 Color Reference
 
-| Color             | Hex                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| Primary Color | ![#222831](https://via.placeholder.com/10/222831?text=+) #222831 |
-| Secondary Color | ![#393E46](https://via.placeholder.com/10/393E46?text=+) #393E46 |
+| Color            | Hex                                                              |
+| ---------------- | ---------------------------------------------------------------- |
+| Primary Color    | ![#222831](https://via.placeholder.com/10/222831?text=+) #222831 |
+| Secondary Color  | ![#393E46](https://via.placeholder.com/10/393E46?text=+) #393E46 |
 | Background Color | ![#00ADB5](https://via.placeholder.com/10/00ADB5?text=+) #00ADB5 |
-| Text Color | ![#EEEEEE](https://via.placeholder.com/10/EEEEEE?text=+) #EEEEEE |
+| Text Color       | ![#EEEEEE](https://via.placeholder.com/10/EEEEEE?text=+) #EEEEEE |
 
 <!-- Getting Started -->
+
 ## 🚀 Getting Started
 
 <!-- Prerequisites -->
+
 ### 🔧 Prerequisites
 
 - Prerequisite 1
@@ -73,6 +78,7 @@ This project includes the following features:
 - Prerequisite 3
 
 <!-- Run Locally -->
+
 ### 🏃 Run Locally
 
 Clone the project
@@ -100,6 +106,7 @@ Start the server
 ```
 
 <!-- Contributing -->
+
 ## 👋 Contributing
 
 <a href="https://github.com/natainditama/genie/graphs/contributors">
@@ -111,6 +118,7 @@ Contributions are always welcome!
 See [contributing.md](https://github.com/natainditama/genie/blob/main/.github/CONTRIBUTING.md) for ways to get started.
 
 <!-- Contact -->
+
 ## 🤝 Contact
 
 Contact me for inquiries, suggestions, or contributions via the following channels:
@@ -120,11 +128,13 @@ Contact me for inquiries, suggestions, or contributions via the following channe
 - [GitHub](https://github.com/natainditama)
 
 <!-- License -->
+
 ## ⚠️ License
 
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/natainditama/genie/blob/main/LICENSE) file for details
 
 <!-- Acknowledgments -->
+
 ## 🙏 Acknowledgements
 
 Special thanks to contributors for their valuable contributions to this project:

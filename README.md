@@ -21,13 +21,13 @@
   </a>
 </p>
    
-<h4>
+  <h4>
     <a href="https://github.com/natainditama/genie/">View Demo</a>
-  <span> · </span>
+    <span> · </span>
     <a href="https://github.com/natainditama/genie">Documentation</a>
-  <span> · </span>
+    <span> · </span>
     <a href="https://github.com/natainditama/genie/issues/">Report Bug</a>
-  <span> · </span>
+    <span> · </span>
     <a href="https://github.com/natainditama/genie/issues/">Request Feature</a>
   </h4>
 </div>
@@ -35,17 +35,15 @@
 <br />
 
 <div align="center"> 
-  <img src="https://placehold.co/1280x720?text=Your+Screenshot+here" alt="screenshot" />
+  <img src=".github/screnshot.png" alt="screenshot" />
 </div>
 
 <br />
 
 <!-- About the Project -->
-
 ## 📝 About the Project
 
 <!-- Features -->
-
 ### 🌟 Features
 
 This project includes the following features:
@@ -55,7 +53,6 @@ This project includes the following features:
 - Feature 3
 
 <!-- Color Reference -->
-
 ### 🎨 Color Reference
 
 | Color            | Hex                                                              |
@@ -66,11 +63,9 @@ This project includes the following features:
 | Text Color       | ![#EEEEEE](https://via.placeholder.com/10/EEEEEE?text=+) #EEEEEE |
 
 <!-- Getting Started -->
-
 ## 🚀 Getting Started
 
 <!-- Prerequisites -->
-
 ### 🔧 Prerequisites
 
 - Prerequisite 1
@@ -78,7 +73,6 @@ This project includes the following features:
 - Prerequisite 3
 
 <!-- Run Locally -->
-
 ### 🏃 Run Locally
 
 Clone the project
@@ -106,7 +100,6 @@ Start the server
 ```
 
 <!-- Contributing -->
-
 ## 👋 Contributing
 
 <a href="https://github.com/natainditama/genie/graphs/contributors">
@@ -117,27 +110,19 @@ Contributions are always welcome!
 
 See [contributing.md](https://github.com/natainditama/genie/blob/main/.github/CONTRIBUTING.md) for ways to get started.
 
-<!-- Contact -->
-
-## 🤝 Contact
-
-Contact me for inquiries, suggestions, or contributions via the following channels:
-
-- [Email](mailto:natainditama.dev@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/natainditama)
-- [GitHub](https://github.com/natainditama)
-
 <!-- License -->
-
 ## ⚠️ License
 
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/natainditama/genie/blob/main/LICENSE) file for details
 
-<!-- Acknowledgments -->
+<!-- Contact -->
+## 🤝 Contact
+Nata Inditama - [natainditama](https://linkedin.com/in/natainditama/) - natainditama.dev@gmail.com
 
-## 🙏 Acknowledgements
+Project Link: [https://github.com/natainditama/genie](https://github.com/natainditama/genie)
 
-Special thanks to contributors for their valuable contributions to this project:
+<!-- Resources -->
+## 📚 Resources
 
 - [Project 1](https://project/)
 - [Project 2](https://project/)

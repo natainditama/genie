@@ -10,14 +10,23 @@
   <a href="https://github.com/natainditama/genie/graphs/contributors">
     <img src="https://img.shields.io/github/contributors/natainditama/genie" alt="contributors" />
   </a>
-  <a href="https://github.com/natainditama/genie">
-    <img src="https://img.shields.io/github/last-commit/natainditama/genie" alt="last update" />
-  </a>
   <a href="https://github.com/natainditama/genie/issues/">
     <img src="https://img.shields.io/github/issues/natainditama/genie" alt="open issues" />
   </a>
+  <a href="https://github.com/natainditama/genie/network/members">
+    <img src="https://badgen.net/github/forks/natainditama/genie" alt="forks" />
+  </a>
+  <a href="https://github.com/natainditama/genie/network/members">
+    <img src="https://badgen.net/github/commits/natainditama/genie" alt="commits count" />
+  </a>
+  <a href="https://github.com/natainditama/genie/stargazers">
+    <img src="https://badgen.net/github/stars/natainditama/genie" alt="stars" />
+  </a>
   <a href="https://github.com/natainditama/genie/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/natainditama/genie.svg" alt="license" />
+  </a>
+  <a href="https://github.com/natainditama/genie">
+    <img src="https://img.shields.io/github/last-commit/natainditama/genie" alt="last update" />
   </a>
 </p>
    
@@ -64,6 +73,14 @@ This project includes the following features:
 
 <!-- Getting Started -->
 ## 🚀 Getting Started
+
+<!-- Usage -->
+### 🔍 Usage
+
+1. Create your repository [here](https://github.com/new?template_name=genie&template_owner=natainditama).
+2. Clone your repository.
+3. Update README.md with yourusername/repo.
+4. Customize the project based on your needs.
 
 <!-- Prerequisites -->
 ### 🔧 Prerequisites

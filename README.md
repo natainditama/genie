@@ -16,7 +16,7 @@
   <a href="https://github.com/natainditama/genie/network/members">
     <img src="https://badgen.net/github/forks/natainditama/genie" alt="forks" />
   </a>
-  <a href="https://github.com/natainditama/genie/network/members">
+  <a href="https://github.com/natainditama/genie/graphs/commit-activity">
     <img src="https://badgen.net/github/commits/natainditama/genie" alt="commits count" />
   </a>
   <a href="https://github.com/natainditama/genie/stargazers">

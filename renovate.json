@@ -1,11 +1,8 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-  "extends": ["config:base", "group:all"],
-  "labels": ["type: dependencies"],
-  "major": {
-    "enabled": false
-  },
+  "extends": ["config:base"],
+  "labels": ["dependencies"],
   "prCreation": "not-pending",
   "semanticCommits": "enabled",
-  "stabilityDays": 3
+  "automerge": true
 }

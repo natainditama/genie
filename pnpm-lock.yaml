@@ -7,7 +7,7 @@ settings:
 devDependencies:
   '@commitlint/cli':
     specifier: ^19.0.0
-    version: 19.4.1(@types/node@22.5.4)(typescript@5.5.4)
+    version: 19.4.1(@types/node@22.5.4)(typescript@5.6.2)
   '@commitlint/config-conventional':
     specifier: ^19.0.0
     version: 19.4.1
@@ -19,10 +19,10 @@ devDependencies:
     version: 15.2.10
   prettier:
     specifier: ^3.2.4
-    version: 3.2.5
+    version: 3.3.3
   prettier-plugin-sort-json:
     specifier: ^4.0.0
-    version: 4.0.0(prettier@3.2.5)
+    version: 4.0.0(prettier@3.3.3)
 
 packages:
 
@@ -49,14 +49,14 @@ packages:
       picocolors: 1.0.1
     dev: true
 
-  /@commitlint/cli@19.4.1(@types/node@22.5.4)(typescript@5.5.4):
+  /@commitlint/cli@19.4.1(@types/node@22.5.4)(typescript@5.6.2):
     resolution: {integrity: sha512-EerFVII3ZcnhXsDT9VePyIdCJoh3jEzygN1L37MjQXgPfGS6fJTWL/KHClVMod1d8w94lFC3l4Vh/y5ysVAz2A==}
     engines: {node: '>=v18'}
     hasBin: true
     dependencies:
       '@commitlint/format': 19.3.0
       '@commitlint/lint': 19.4.1
-      '@commitlint/load': 19.4.0(@types/node@22.5.4)(typescript@5.5.4)
+      '@commitlint/load': 19.4.0(@types/node@22.5.4)(typescript@5.6.2)
       '@commitlint/read': 19.4.0
       '@commitlint/types': 19.0.3
       execa: 8.0.1
@@ -125,7 +125,7 @@ packages:
       '@commitlint/types': 19.0.3
     dev: true
 
-  /@commitlint/load@19.4.0(@types/node@22.5.4)(typescript@5.5.4):
+  /@commitlint/load@19.4.0(@types/node@22.5.4)(typescript@5.6.2):
     resolution: {integrity: sha512-I4lCWaEZYQJ1y+Y+gdvbGAx9pYPavqZAZ3/7/8BpWh+QjscAn8AjsUpLV2PycBsEx7gupq5gM4BViV9xwTIJuw==}
     engines: {node: '>=v18'}
     dependencies:
@@ -134,8 +134,8 @@ packages:
       '@commitlint/resolve-extends': 19.1.0
       '@commitlint/types': 19.0.3
       chalk: 5.3.0
-      cosmiconfig: 9.0.0(typescript@5.5.4)
-      cosmiconfig-typescript-loader: 5.0.0(@types/node@22.5.4)(cosmiconfig@9.0.0)(typescript@5.5.4)
+      cosmiconfig: 9.0.0(typescript@5.6.2)
+      cosmiconfig-typescript-loader: 5.0.0(@types/node@22.5.4)(cosmiconfig@9.0.0)(typescript@5.6.2)
       lodash.isplainobject: 4.0.6
       lodash.merge: 4.6.2
       lodash.uniq: 4.5.0
@@ -403,7 +403,7 @@ packages:
       split2: 4.2.0
     dev: true
 
-  /cosmiconfig-typescript-loader@5.0.0(@types/node@22.5.4)(cosmiconfig@9.0.0)(typescript@5.5.4):
+  /cosmiconfig-typescript-loader@5.0.0(@types/node@22.5.4)(cosmiconfig@9.0.0)(typescript@5.6.2):
     resolution: {integrity: sha512-+8cK7jRAReYkMwMiG+bxhcNKiHJDM6bR9FD/nGBXOWdMLuYawjF5cGrtLilJ+LGd3ZjCXnJjR5DkfWPoIVlqJA==}
     engines: {node: '>=v16'}
     peerDependencies:
@@ -412,12 +412,12 @@ packages:
       typescript: '>=4'
     dependencies:
       '@types/node': 22.5.4
-      cosmiconfig: 9.0.0(typescript@5.5.4)
+      cosmiconfig: 9.0.0(typescript@5.6.2)
       jiti: 1.21.6
-      typescript: 5.5.4
+      typescript: 5.6.2
     dev: true
 
-  /cosmiconfig@9.0.0(typescript@5.5.4):
+  /cosmiconfig@9.0.0(typescript@5.6.2):
     resolution: {integrity: sha512-itvL5h8RETACmOTFc4UfIyB2RfEHi71Ax6E/PivVxq9NseKbOWpeyHEOIbmAw1rs8Ak0VursQNww7lf7YtUwzg==}
     engines: {node: '>=14'}
     peerDependencies:
@@ -430,7 +430,7 @@ packages:
       import-fresh: 3.3.0
       js-yaml: 4.1.0
       parse-json: 5.2.0
-      typescript: 5.5.4
+      typescript: 5.6.2
     dev: true
 
   /cross-spawn@7.0.3:
@@ -895,17 +895,17 @@ packages:
     hasBin: true
     dev: true
 
-  /prettier-plugin-sort-json@4.0.0(prettier@3.2.5):
+  /prettier-plugin-sort-json@4.0.0(prettier@3.3.3):
     resolution: {integrity: sha512-zV5g+bWFD2zAqyQ8gCkwUTC49o9FxslaUdirwivt5GZHcf57hCocavykuyYqbExoEsuBOg8IU36OY7zmVEMOWA==}
     engines: {node: '>=18.0.0'}
     peerDependencies:
       prettier: ^3.0.0
     dependencies:
-      prettier: 3.2.5
+      prettier: 3.3.3
     dev: true
 
-  /prettier@3.2.5:
-    resolution: {integrity: sha512-3/GWa9aOC0YeD7LUfvOG2NiDyhOWRvt1k+rcKhOuYnMY24iiCphgneUfJDyFXd6rZCAnuLBv6UeAULtrhT/F4A==}
+  /prettier@3.3.3:
+    resolution: {integrity: sha512-i2tDNA0O5IrMO757lfrdQZCc2jPNDVntV0m/+4whiDfWaTKfMNgR7Qz0NAeGz/nRqF4m5/6CLzbP4/liHt12Ew==}
     engines: {node: '>=14'}
     hasBin: true
     dev: true
@@ -1051,8 +1051,8 @@ packages:
       is-number: 7.0.0
     dev: true
 
-  /typescript@5.5.4:
-    resolution: {integrity: sha512-Mtq29sKDAEYP7aljRgtPOpTvOfbwRWlS6dPRzwjdE+C0R4brX/GUyhHSecbHMFLNBLcJIPt9nl9yG5TZ1weH+Q==}
+  /typescript@5.6.2:
+    resolution: {integrity: sha512-NW8ByodCSNCwZeghjN3o+JX5OFH0Ojg6sadjEKY4huZ52TqbJTJnDo5+Tw98lSy63NZvi4n+ez5m2u5d4PkZyw==}
     engines: {node: '>=14.17'}
     hasBin: true
     dev: true

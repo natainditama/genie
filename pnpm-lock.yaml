@@ -19,10 +19,10 @@ devDependencies:
     version: 15.2.10
   prettier:
     specifier: ^3.2.4
-    version: 3.3.3
+    version: 3.5.2
   prettier-plugin-sort-json:
     specifier: ^4.0.0
-    version: 4.0.0(prettier@3.3.3)
+    version: 4.0.0(prettier@3.5.2)
 
 packages:
 
@@ -848,17 +848,17 @@ packages:
     hasBin: true
     dev: true
 
-  /prettier-plugin-sort-json@4.0.0(prettier@3.3.3):
+  /prettier-plugin-sort-json@4.0.0(prettier@3.5.2):
     resolution: {integrity: sha512-zV5g+bWFD2zAqyQ8gCkwUTC49o9FxslaUdirwivt5GZHcf57hCocavykuyYqbExoEsuBOg8IU36OY7zmVEMOWA==}
     engines: {node: '>=18.0.0'}
     peerDependencies:
       prettier: ^3.0.0
     dependencies:
-      prettier: 3.3.3
+      prettier: 3.5.2
     dev: true
 
-  /prettier@3.3.3:
-    resolution: {integrity: sha512-i2tDNA0O5IrMO757lfrdQZCc2jPNDVntV0m/+4whiDfWaTKfMNgR7Qz0NAeGz/nRqF4m5/6CLzbP4/liHt12Ew==}
+  /prettier@3.5.2:
+    resolution: {integrity: sha512-lc6npv5PH7hVqozBR7lkBNOGXV9vMwROAPlumdBkX0wTbbzPu/U1hk5yL8p2pt4Xoc+2mkT8t/sow2YrV/M5qg==}
     engines: {node: '>=14'}
     hasBin: true
     dev: true

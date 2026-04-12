@@ -22,7 +22,7 @@ devDependencies:
     version: 3.3.3
   prettier-plugin-sort-json:
     specifier: ^4.0.0
-    version: 4.0.0(prettier@3.3.3)
+    version: 4.2.0(prettier@3.3.3)
 
 packages:
 
@@ -844,8 +844,8 @@ packages:
     hasBin: true
     dev: true
 
-  /prettier-plugin-sort-json@4.0.0(prettier@3.3.3):
-    resolution: {integrity: sha512-zV5g+bWFD2zAqyQ8gCkwUTC49o9FxslaUdirwivt5GZHcf57hCocavykuyYqbExoEsuBOg8IU36OY7zmVEMOWA==}
+  /prettier-plugin-sort-json@4.2.0(prettier@3.3.3):
+    resolution: {integrity: sha512-jK1w3/7otTvHtv1eoLji2U9mEoOGeyl7QQQ/afLnjht1YtRLSUUk8o0rIIC/HUVXhoGPCFe4SVZbRGYjjUVgvA==}
     engines: {node: '>=18.0.0'}
     peerDependencies:
       prettier: ^3.0.0
